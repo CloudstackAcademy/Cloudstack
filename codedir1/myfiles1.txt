@@ -1,3 +1,2 @@
-version 1.0.2 release
-second deployment 
-added new features
+version 1.0.1 release
+first deployment 
