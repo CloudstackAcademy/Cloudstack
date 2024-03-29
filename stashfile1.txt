@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
-this is 50% code (blue task)
-=======
-the remaining 50% code (green task)
->>>>>>> Stashed changes
+this is blue code (50%)
+
